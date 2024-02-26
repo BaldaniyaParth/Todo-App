@@ -4,9 +4,9 @@ This is a simple Todo application built using JavaScript. It allows users to add
 
 ## Features:
 
-Add new tasks with a title and optional description.
-Mark tasks as completed to keep track of progress.
-Delete tasks individually or clear all tasks at once.
+- Add new tasks with a title and optional description.
+- Mark tasks as completed to keep track of progress.
+- Delete tasks individually or clear all tasks at once.
 
 
 This project serves as a practical exercise in JavaScript DOM manipulation and basic web development concepts. Feel free to fork, contribute, or use it as a reference for learning purposes
